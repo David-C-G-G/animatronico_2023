@@ -3,15 +3,23 @@ El código de un animatronico para cocotron 2023
 
 Elementos Utilizados:
 El animatronico llamado "Mictecacihuatl" fue programado usando los siguientes elementos electrónicos:
+
 6 - Servo motores modelo: MG995 marca: Tower Pro
 
 1 - Micro Servo motor modelo: SG90 marca: Tower Pro
+
 2 - LED RGB
+
 1 - Placav PCA9685
+
 1 - Raspberry Pi 2 Model B.V1.1
+
 1 - Arduino UNO Generico con integrado: ATMEL ATMEGA328P-PU
+
 1 - sensor sharp
+
 1 - sensor IR
+
 cables tipo dupont para las conexiones, extensores de servomotores, y cables de alimentación para las placas
 
 # Descripción de funcionalidad:
