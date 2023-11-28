@@ -2,7 +2,7 @@
 El código de un animatronico para cocotron 2023
 
 Elementos Utilizados:
-El animatronico llamado "Mictecazihuatl" fue programado usando los siguientes elementos electrónicos:
+El animatronico llamado "Mictecacihuatl" fue programado usando los siguientes elementos electrónicos:
 6 - Servo motores modelo: MG995 marca: Tower Pro
 1 - Micro Servo motor modelo: SG90 marca: Tower Pro
 2 - LED RGB
@@ -14,7 +14,7 @@ El animatronico llamado "Mictecazihuatl" fue programado usando los siguientes el
 cables tipo dupont para las conexiones, extensores de servomotores, y cables de alimentación para las placas
 
 # Descripción de funcionalidad:
-El animatrónico elaborado fue la representación del personaje "Mictecazihuatl" el cual representaba en diversas historias de la epoco prehispanica una deidad al lado de Mictlantecutli, Mictecazihuatl es a quien se le atribuye las primeras historias del dia de muertos, se elaboró un muñexo simulando al personaje mencionado, haciendo uso de papel engrudo para su elaboracion, asi como tambien pintura, las funciones que debia realizar en un inicio fueron pensadas en forma de secuencias, ya que uno de los requerimientos del concurso pedia que fuera interactivo con el publico; para lograr esto el animatronico debia ser contruido con un sensor en la palma de su "mano" el cual tendria encima del sensor una flor, y en ecosistema construido para darle ambientacion a las faldas del animatronico se colocó otro sensor que encima tendria una mariposa, la funcionalidad al retirar la flor era la iluminacion del escenario, poner sus ojos azules y comenzar a cantar mientras mueve la quijada, a esto se le llamaria SECUENCIA 1, para la SECUENCIA 2 al retirar la mariposa, el escenario se apagaba y comenzaba a mover cada una de las articulaciones simulando que se encontraba en molestia o desesperacion, puesto que la mariposa representa una de las almas que estaban bajo su resguardo.
+El animatrónico elaborado fue la representación del personaje "Mictecacihuatl" el cual representaba en diversas historias de la epoco prehispanica una deidad al lado de Mictlantecutli, Mictecacihuatl es a quien se le atribuye las primeras historias del dia de muertos, se elaboró un muñexo simulando al personaje mencionado, haciendo uso de papel engrudo para su elaboracion, asi como tambien pintura, las funciones que debia realizar en un inicio fueron pensadas en forma de secuencias, ya que uno de los requerimientos del concurso pedia que fuera interactivo con el publico; para lograr esto el animatronico debia ser contruido con un sensor en la palma de su "mano" el cual tendria encima del sensor una flor, y en ecosistema construido para darle ambientacion a las faldas del animatronico se colocó otro sensor que encima tendria una mariposa, la funcionalidad al retirar la flor era la iluminacion del escenario, poner sus ojos azules y comenzar a cantar mientras mueve la quijada, a esto se le llamaria SECUENCIA 1, para la SECUENCIA 2 al retirar la mariposa, el escenario se apagaba y comenzaba a mover cada una de las articulaciones simulando que se encontraba en molestia o desesperacion, puesto que la mariposa representa una de las almas que estaban bajo su resguardo.
 
 
 # El animatrónico fue programado en una placa Rasberry con sistema operativo Raspbian y el lenguaje utilizado fue python, las librerias que intervienen en código son las siguientes:
